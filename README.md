@@ -1,2 +1,2 @@
 # TwoTableViewLinkage
-two TableView Linkage like meituan and ele app
+两个UITableView的联动类似外卖APP
